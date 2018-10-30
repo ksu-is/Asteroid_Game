@@ -1,4 +1,3 @@
-# Asteroid_Game
 
 URL: http://arcade.academy/examples/asteroid_smasher.html
 
