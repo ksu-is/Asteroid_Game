@@ -1,3 +1,5 @@
+Dylan McGarity and Daniel Diroberto
+
 
 URL: http://arcade.academy/examples/asteroid_smasher.html
 
