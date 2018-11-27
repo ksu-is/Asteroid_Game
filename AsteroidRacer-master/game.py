@@ -28,10 +28,10 @@ class AsteroidsWindow(pyglet.window.Window):
         self.background_music = pyglet.resource.media("cyber-soldier.wav", streaming=False)
 
         self.ship = pyglet.sprite.Sprite(img=self.ship_image, x=30, y=30)
-        self.ship.scale = 0.3
+        self.ship.scale = 0.25
         self.ship.rotation = 180
 
-        self.score_label = pyglet.text.Label(text="Score:0 Highscore:0", x=10, y=10)
+        self.score_label = pyglet.text.Label(text="Score:0 Highscore:0", x=10, y=450)
         self.score = 0
         self.highscore = 0
 
@@ -69,7 +69,7 @@ class AsteroidsWindow(pyglet.window.Window):
     def update_asteroids(self):
         if random.randint(0, 45) == 3:
             ast = pyglet.sprite.Sprite(img=self.asteroid_image, x=random.randint(0, 800), y=600)
-            ast.scale = 0.3
+            ast.scale = 0.2
             self.asteroids.append(ast)
         for asteroid in self.asteroids:
             asteroid.y -= 7

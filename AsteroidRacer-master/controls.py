@@ -22,3 +22,5 @@ def handleEvent(event, objectmanager):
         if(event.key == pygame.K_RIGHT):
             if(objectmanager.player.velX == 1):
                 objectmanager.player.velX = 0
+                if(event.key == pygame.K_SPACE):
+                    objectmanager.spawnBullet()
