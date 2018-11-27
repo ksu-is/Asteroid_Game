@@ -1,0 +1,22 @@
+ToDo:
+
+gameobject:
+
+Display:
+
+ObjectManager:
+
+Controls:
+    - find a proper home for this, and perhaps split the handleEvent() function into a few smaller ones 
+
+Features:
+- Reload
+- Score 
+- Powerups
+
+Graphics:
+- actual graphics
+- ship degredation with lives
+- score graphics
+- reload bar filling?
+- maybe keep the idea of showing status of ship in graphics by having missiles?
