@@ -3,22 +3,25 @@
   #### () 
 1. Install python 3.7, Xcode, and Pygame extension in order to run the "arcade" package included in the above codebase. 
   #### (Dylan)    DONE
-1. Install python 3.7, Pygame extension, and Virtual Studio Code Editor or in order to run the "arcade" package included in the above        codebase. 
+2. Install python 3.7, Pygame extension, and Virtual Studio Code Editor or in order to run the "arcade" package included in the above        codebase. 
   #### (Daniel)   DONE
-1. After installing extentions, open command prompt, run it as an administrator, and enter *pip install arcade*.
+3. After installing extentions, open command prompt, run it as an administrator, and enter *pip install arcade*.
   #### (Daniel & Dylan)   DONE
-1. Find and change new png fro spaceships.  
+4. Find and change new png fro spaceships.  
   #### (Dylan)  DONE
-1. Change the background to a more simple and colorful design.
+5. Change the background to a more simple and colorful design.
   ####()
-1.Edit the position of the score board from the bottom left corner to the top left corner. 
+6.Edit the position of the score board from the bottom left corner to the top left corner. 
   #### (Dylan)  DONE
-1.  
+7.  
   #### () 
-1. 
+8. 
   #### () 
-1.  
+9.  
   #### () 
-1.  
+10.  
   #### () 
-
+11.  
+  #### ()
+12.  
+  #### ()
