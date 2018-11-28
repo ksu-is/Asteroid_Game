@@ -1,5 +1,6 @@
-#T a s k    L i s t    f o r    P r o j e c t
-[x]Elvaluate codebase at [https://github.com/philipfoster/AsteroidSmasher] to determine feasiblity of running this code and making modifications.
+[]
+T a s k    L i s t    f o r    P r o j e c t
+Elvaluate codebase at [https://github.com/philipfoster/AsteroidSmasher] to determine feasiblity of running this code and making modifications.
   #### () 
 2. Install python 3.7, Xcode, and Pygame extension in order to run the "arcade" package included in the above codebase. 
   #### (Dylan)    DONE
