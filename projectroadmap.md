@@ -4,8 +4,7 @@
 2. Install python 3.7, Xcode, and Pygame extension in order to run the "arcade" package included in the above codebase. 
 ##### (Dylan)    DONE
 
-3. Install python 3.7, Pygame extension, and Virtual Studio Code Editor or in order to run the "arcade" package included in the above        codebase. 
-  ##### (Daniel)   DONE
+3. Install python 3.7, Pygame extension, and Virtual Studio Code Editor or in order to run the "arcade" package included in the above        codebase. ##### (Daniel)   DONE
   
 4. After installing extentions, open command prompt, run it as an administrator, and enter *pip install arcade*.
   ##### (Daniel & Dylan)   DONE
