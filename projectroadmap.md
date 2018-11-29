@@ -8,7 +8,7 @@
 
 4. After installing extentions, open command prompt, run it as an administrator, and enter *pip install arcade*.  **(Daniel & Dylan)**   DONE
 
-5. Find and change new png fro spaceships.  **(Dylan)**  DONE
+5. Find and change opposing ships to alien spaceships.  **(Dylan)**  DONE
 
 6. Change the background to a more simple and colorful design.  **()**
 
