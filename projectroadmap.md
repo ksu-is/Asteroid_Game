@@ -12,9 +12,9 @@
 
 6. Change the background to a more simple and colorful design.  **()**
 
-7.Edit the position of the score board from the bottom left corner to the top left corner.  **(Dylan)**  DONE
+7. Edit the position of the score board from the bottom left corner to the top left corner.  **(Dylan)**  DONE
 
-8.  **()** 
+8. Increase the speed of the spaceship and asteroids **(Daniel)** 
 
 9.  **()**
 
