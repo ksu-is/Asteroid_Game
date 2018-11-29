@@ -20,7 +20,7 @@
 
 10. Add the ability to pause at any point in the game.  **()** 
 
-11.Widen the size of the terminal.   **()** 
+11. Widen the size of the terminal.   **()** 
 
 12. Add the ability to shoot bullets in order to destroy asteroids to avoid being hit.  **()**
 
