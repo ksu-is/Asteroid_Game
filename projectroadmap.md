@@ -1,6 +1,6 @@
 ## Task List for Asteroid Game
 
-1. Elvaluate codebase at [https://github.com/philipfoster/AsteroidSmasher] to determine feasiblity of running this code and making modifications.  **()** 
+1. Evaluate codebase at [https://github.com/philipfoster/AsteroidSmasher] to determine feasiblity of running this code and making modifications.  **()** 
 
 2. Install python 3.7, Xcode, and Pygame extension in order to run the "arcade" package included in the above codebase(Mac OS). **(Dylan)**    DONE
 
