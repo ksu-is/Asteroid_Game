@@ -9,3 +9,5 @@ T a s k    L i s t    f o r    P r o j e c t
 7. Add bullets to gameplay to shoot incoming enemies. 
 8. Add a Start button to the beginning of gameplay so it does not start without you knowing. 
 9. Add a variety of different enemies that populate at random.
+10. Update the amount of space in between each asteroid to make the game more difficult. - DONE
+11. Change background music. -DONE
